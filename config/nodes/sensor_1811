@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:1811
+device_longitude:-8.3977872133255
+device_latitude:41.557933620175874
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_gps_file_name:route1.gps
+device_script_file_name:mobileRoute1.csc

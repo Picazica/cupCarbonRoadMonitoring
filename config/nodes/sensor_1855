@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:1855
+device_longitude:-8.407362699508667
+device_latitude:41.560253736464425
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_gps_file_name:route5.gps
+device_script_file_name:mobileRoute5.csc

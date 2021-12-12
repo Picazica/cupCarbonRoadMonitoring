@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:1784
+device_longitude:-8.407335877418518
+device_latitude:41.55244207700108
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_script_file_name:centralTestRoute1.csc
